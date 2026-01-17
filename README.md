@@ -10,10 +10,6 @@
 
 Hey! Wellcome to my profile.
 
-<p align="center">
-  <img src="your-gif-link.gif" width="800"/>
-</p>
-
 
 <!--
 **anamikadas06/anamikadas06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
