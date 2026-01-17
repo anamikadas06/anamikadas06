@@ -1,4 +1,8 @@
-# Anamika Das
+<br>
+<h1 align="center">Anamika Das</h1>
+<br>
+<p align="center">Computer Science Engineering Student</p>
+
 <img src="https://raw.githubusercontent.com/anamikadas06/anamikadas06/output/snake.svg" />
 Hey! Wellcome to my profile.
 
