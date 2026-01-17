@@ -1,13 +1,6 @@
-<br>
-<h1 align="center">
-  <font color="#39ff14">Anamika Das</font>
-</h1>
-<br>
 <p align="center">
-  <font color="#39ff14">Computer Science Engineering Student</font>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&color=39FF14&center=true&vCenter=true&width=500&lines=Anamika+Das;Computer+Science+Engineering+Student" />
 </p>
-
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anamikadas06/anamikadas06/output/snake.svg" />
