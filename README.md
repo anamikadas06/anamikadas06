@@ -11,7 +11,6 @@
 <br> 
 <h1 align="center">Hey! Wellcome to my profile.</h1> 
 <br>
-Hey! Wellcome to my profile.
 
 
 <!--
