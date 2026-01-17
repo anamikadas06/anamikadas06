@@ -6,7 +6,7 @@
 [Your stats here...]
 
 ## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/anamikadas06/anamikadas06/output/snake.svg" />
 ## Hi there 👋
 
 <!--
