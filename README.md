@@ -3,7 +3,10 @@
 <br>
 <p align="center">Computer Science Engineering Student</p>
 
-<img src="https://raw.githubusercontent.com/anamikadas06/anamikadas06/output/snake.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anamikadas06/anamikadas06/output/snake.svg" />
+</p>
+
 Hey! Wellcome to my profile.
 
 <!--
