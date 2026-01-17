@@ -1,11 +1,4 @@
 # Anamika Das
-
-[Your intro and content here...]
-
-## 📊 GitHub Stats
-[Your stats here...]
-
-## 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/anamikadas06/anamikadas06/output/snake.svg" />
 ## Hi there 👋
 
