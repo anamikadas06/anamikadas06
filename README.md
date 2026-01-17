@@ -1,7 +1,7 @@
 <br>
-<h1 align="center">Anamika Das</h1>
+<h1 align="center" style="color:#39ff14;">Anamika Das</h1>
 <br>
-<p align="center">Computer Science Engineering Student</p>
+<p align="center" style="color:#39ff14;">Computer Science Engineering Student</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anamikadas06/anamikadas06/output/snake.svg" />
