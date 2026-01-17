@@ -1,6 +1,6 @@
 # Anamika Das
 <img src="https://raw.githubusercontent.com/anamikadas06/anamikadas06/output/snake.svg" />
-# Hey! Wellcome to my profile.
+Hey! Wellcome to my profile.
 
 <!--
 **anamikadas06/anamikadas06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
