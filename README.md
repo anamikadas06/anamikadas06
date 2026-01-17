@@ -1,6 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&color=39FF14&center=true&vCenter=true&width=500&lines=Anamika+Das;Computer+Science+Engineering+Student" />
+  <img src="https://readme-typing-svg.demolab.com
+  ?font=Orbitron
+  &size=32
+  &color=39FF14
+  &center=true
+  &vCenter=true
+  &width=800
+  &lines=Anamika+Das;Computer+Science+Engineering+Student" />
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anamikadas06/anamikadas06/output/snake.svg" />
