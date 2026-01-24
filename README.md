@@ -8,6 +8,11 @@
   <img src="https://raw.githubusercontent.com/anamikadas06/anamikadas06/output/snake.svg" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=900&Repeat=false&lines=Welcome+to+My+Profile" />
+</p>
+
+
 <!--
 **anamikadas06/anamikadas06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
